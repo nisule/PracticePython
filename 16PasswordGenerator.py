@@ -28,7 +28,7 @@ def GenRandom():
     return password
 
 
-# generates a password, picks 2 random words from dictionary
+# generates a password, picks random words from dictionary
 def GenWord():
     length = int(input("How many words do you want your password to be? (ex: 4) : "))
 
